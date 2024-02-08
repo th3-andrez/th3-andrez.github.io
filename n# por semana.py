@@ -9,4 +9,3 @@ match n:
     case 6: print("el numero escrito es: ",n," que es Sabado")
     case 7: print("el numero escrito es: ",n," que es Domingo")
     case _: print("no hay dia existente para el nuemo ",n)
-
