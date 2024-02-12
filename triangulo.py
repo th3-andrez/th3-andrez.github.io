@@ -6,3 +6,5 @@ print("cuato ee la base del triangulo")
 bs=int(input())
 are=al*bs
 print("area del cuatrado es: ",are)
+
+#Ronny Rodriguez
